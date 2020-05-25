@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style> body {
+      font-size: 1em;
+      font-weight: normal;
+      font-family: Arial, Sans-serif;
+      color: #000000;
+      text-align: left;
+ ] 
+ h1 {
+      font-size: 1.8em;
+      font-weight: bold;
+      color: #0000ff;
+      text-align: center;
+ }
+</style>
+      <meta charset="utf-8">
+      <title>Web Portfolio: Brittney Reyes</title>
+  </head>
+  <body>
+  <main>
+  <h1>Web Portfolio</h1>
+   <h2>About Me</h2>
+  <div>
+   <u1>
+     <1i>Brittney Reyes</1i>
+     <1i>reyesbrittney9@gmail.com</1i>
+     </u1>
+        <1i>Home</1i>
+        <1i>Accessiblity</1i>
+        <1i>Usability</1i>
+        <1i>Graphics</1i>
+        <1i>Javascript</1i>
+        <1i>Tools</1i>
+        <1i>Video</1i>
+     </u1>
+  </nav>
+     <p>Something</p>
+     <h2>Unit 2</h2>
+     <p>This section will be completed soon.</p>
+     <h2>Unit 3</h2>
