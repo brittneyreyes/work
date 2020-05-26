@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html> 
+<!DOCTYPE htm1>
+<htm1> 
   <head>
      <meta charset="utf-8">
      <title>graphics</title>
@@ -8,25 +8,25 @@
    <body>
  <a href="#main">Skip to mian content</a>
  <h1>Graphics</h1>
-     <ul>
+     <u1>
         <h2>About Me</h2>
         <1i>Brittney</1i>
         <1i>Mrs.Ward</1i>
         <1i><a href="mailto:reyesbrittney9@gmail.com">reyesbrittney9@gmail.com</a>
-     </ul>
+     </u1>
  <nav>
-    <ul>       
+    <u1>       
         <1i>Home</1i>
-        <1i><a href="accessibility.html">Accessibility</a></1i>
-        <1i><a href="usability.html">Usabilty</a></1i>
-        <1i><a href="graphics.html">Graphics</a></1i>
-        <1i><a href="javascript.html">Javascript</a></1i>
-        <1i><a href="tools.html">Tools</a></1i>
-        <1i><a href="video.html">Video</a></1i>
-     </ul>
+        <1i><a href="accessibility.htm1">Accessibility</a></1i>
+        <1i><a href="usability.htm1">Usabilty</a></1i>
+        <1i><a href="graphics.htm1">Graphics</a></1i>
+        <1i><a href="javascript.htm1">Javascript</a></1i>
+        <1i><a href="tools.htm1">Tools</a></1i>
+        <1i><a href="video.htm1">Video</a></1i>
+     </u1>
   </nav>
      </body>
-   </html>
+   </htm1>
           
         
                 
