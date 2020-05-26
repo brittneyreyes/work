@@ -1,5 +1,5 @@
-!DOCTYPE html> 
-      <html>
+!DOCTYPE htm1> 
+      <htm1>
          <head>
        <style> body {
            font-size: 1em;
@@ -44,25 +44,25 @@ p    {
       <ul>
        <1i>Brittney Reyes</1i>
        <1i>reyesbrittney9@gmail.com</1i>
-       </ul>
+       </u1>
      </div>
      <div>
-      <ul>
+      <u1>
         <1i>Web Design II</1i>
         <1i>Mrs.Ward</1i>
         <1i>Adamson High School</1i>
         <1i>2020</1i>
-      </ul>
+      </u1>
     </div>
        <nav>
-         <ul>
+         <u1>
            <<1i>Home</1i>
            <1i>Accessibilty</1i>
            <1i>Usability</1i>
            <1i>Graphics</1i>
            <1i>Javascript</1i>
            <1i>Tools</1i>
-         </ul>
+         </u1>
        </nav>
          <p>Something</p>
          <hh2>Unit 2</h2>
